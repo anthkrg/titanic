@@ -1,2 +1,2 @@
 # titanic
-Titanic ML challenge
+Titanic ML challenge available at https://www.kaggle.com/competitions/titanic
